@@ -13,7 +13,7 @@
 ### Language and Tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="32px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/270/270780.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/6nJGNMN.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
