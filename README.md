@@ -3,7 +3,7 @@
 - ⚡ Interested so much in mobile application development
 
 <br>
-<div class="row">
+<div class="column">
 <a href="https://github.com/Rez79Kh/github-readme-stats">
   <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=Rez79Kh&theme=midnight-purple&show_icons=true&bg_color=0D1117&count_private=true" />
 </a>
