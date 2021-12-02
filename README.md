@@ -3,13 +3,14 @@
 - ⚡ Interested so much in mobile application development
 
 <br>
-
+<p align=center>
 <a href="https://github.com/Rez79Kh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rez79Kh&theme=midnight-purple&show_icons=true&bg_color=0D1117&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rez79Kh&theme=midnight-purple&show_icons=true&bg_color=0D1117&count_private=true" />
 </a>
 <a href="https://github.com/Rez79Kh/github-readme-stats">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rez79Kh&theme=midnight-purple&layout=compact&bg_color=0D1117" />
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rez79Kh&theme=midnight-purple&layout=compact&bg_color=0D1117" />
 </a>
+</p>
 
 ### Language and Tools:
 
