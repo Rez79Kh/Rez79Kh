@@ -1,8 +1,6 @@
 ### Hi there, I'm RezaKharazminia 👋 , a mobile application developer.
 
 <br>
-<br>
-<br>
 
 ### Language and Tools:
 
