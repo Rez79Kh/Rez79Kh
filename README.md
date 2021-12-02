@@ -3,14 +3,12 @@
 - ⚡ Interested so much in mobile application development
 
 <br>
-<div class="row">
 <a href="https://github.com/Rez79Kh/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Rez79Kh&theme=midnight-purple&show_icons=true&bg_color=0D1117&count_private=true" />
 </a>
 <a href="https://github.com/Rez79Kh/github-readme-stats">
   <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rez79Kh&theme=midnight-purple&layout=compact&bg_color=0D1117" />
 </a>
-</div>
 
 ### Language and Tools:
 
@@ -18,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.pinimg.com/originals/8c/b1/8c/8cb18c72082d13eb581cf6d452e8e266.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://i.imgur.com/6nJGNMN.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/270/270780.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/6nJGNMN.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/6nJGNMN.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
