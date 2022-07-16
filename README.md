@@ -19,7 +19,6 @@
 <img src="https://i.imgur.com/6nJGNMN.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn-icons.flaticon.com/png/128/5611/premium/5611129.png?token=exp=1638455503~hmac=36bf060fc61cf02aab5f35d44a58df16" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 📧 Contact me
 
