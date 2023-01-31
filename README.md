@@ -1,4 +1,4 @@
-### Hi there, I'm RezaKharazminia 👋 , a mobile application developer.
+### Hi there, I'm RezaKharazminia 👋 , a software developer.
 - 👨‍💻 Studying Computer Engineering
 - ⚡ Interested so much in mobile application development
 
