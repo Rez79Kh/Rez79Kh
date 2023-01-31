@@ -1,6 +1,6 @@
 ### Hi there, I'm RezaKharazminia 👋 , a software developer.
 - 👨‍💻 Studying Computer Engineering
-- ⚡ Interested so much in mobile application development
+- ⚡ Interested so much in application development
 
 <br>
 <a href="https://github.com/Rez79Kh/github-readme-stats">
