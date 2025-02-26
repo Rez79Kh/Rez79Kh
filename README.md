@@ -1,5 +1,4 @@
-### Hi there, I'm RezaKharazminia 👋 , a software developer.
-- 👨‍💻 Studying Computer Engineering
+### Hi there, I'm RezaKharazminia 👋 , a software engineer.
 - ⚡ Interested so much in application development
 
 <br>
